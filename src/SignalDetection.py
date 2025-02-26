@@ -80,3 +80,5 @@ if __name__ == "__main__":
 
     print(f"d-prime: {sd.d_prime():.2f}")
     print(f"criterion: {sd.criterion():.2f}")
+
+# Used AI for help

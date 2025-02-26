@@ -1,3 +1,5 @@
+# This is just a file I initially used to run the tests. I was going to run them individually but decided to just put all the tests into TestExperiment.py 
+
 import sys
 import os
 
